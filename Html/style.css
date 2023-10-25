@@ -1,0 +1,18 @@
+.nav {
+    width: 2044px;
+    
+}
+
+.bg-image {
+        background-image:url('image/image 4.png');
+        background-size:cover;
+        height:928px;
+        text-align: center;
+        display: flex;
+}
+
+.text-box {
+    max-width: 730px;
+    width: 100%;
+    height: 300px;
+}
