@@ -1,7 +1,4 @@
-.nav {
-    width: 2044px;
-    
-}
+
 
 .bg-image {
         background-image:url('image/image 4.png');
@@ -15,4 +12,28 @@
     max-width: 730px;
     width: 100%;
     height: 300px;
+}
+
+.flex-gap {
+    gap: 30px;
+}
+
+.flex-column {
+    column-gap: 30px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.footer {
+    width:2044;
+}
+
+.bg-rec {
+    background-image:url('image/Rectangle.png');
+    background-size:cover;
+    height:320px;
+    text-align: center;
+    display: flex;
 }
